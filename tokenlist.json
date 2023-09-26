@@ -34,6 +34,16 @@
     },
 
 
+    {
+      "chainId": 3699,
+      "address": "0xC43E67827D81Fc29Cf12a77be6a40eD6D1ee695C",
+      "name": "SPBUSD",
+      "symbol": "SPBUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WAO-Project-India/assets/main/assets/sp-busd.png"
+    },
+
+
 
     {
       "name": "ETH",
